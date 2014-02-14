@@ -1,7 +1,7 @@
 S4-Genie-Logiciel
 =================
 
-Sommaire:
+Sommaire :
   - [Index](README.md)
   - [Cahier des Charges](doc/CDC.md)
   - [Spécifications Techniques](doc/SpeTech.md)
