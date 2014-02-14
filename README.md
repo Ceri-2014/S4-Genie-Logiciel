@@ -1,4 +1,4 @@
-S4-Genie-Logiciel
+Genie Logiciel
 =================
 
 Sommaire :
