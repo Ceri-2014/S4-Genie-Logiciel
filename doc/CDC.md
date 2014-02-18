@@ -20,7 +20,7 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la faÃ
 * Membres
   - **TORET Valentin** aka blade72
   - **BLASCO MichaÃ«l** aka DeanWinchesterMiND
-  - **GUICHARD Yoan** aka Olfar
+  - **GUICHARD Yoan**  aka Olfar
   - **HONEL Steve**    aka Wartax
 
 * Roles
