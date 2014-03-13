@@ -51,11 +51,11 @@ Date prévionnelle  |  Objectif
 
 ### Glossaire
 
-Code::blocks : Environnement de développement.
-Eclipse : Environnement de développement.
-Interface graphique : dispositif de dialogue homme-machine utilisant clavier et souris.
-Libraire : Fichiers inclus dans un programme et ajoutant des fonctionnalités.
-Matrice : Tableaux à une dimension.
-Opérations arithmétiques : Sommes, soustraction, multiplication et division.
-Type int : Nombre entier.
-Type double : Nombre réel.
+- Code::blocks : Environnement de développement.
+- Eclipse : Environnement de développement.
+- Interface graphique : dispositif de dialogue homme-machine utilisant clavier et souris.
+- Libraire : Fichiers inclus dans un programme et ajoutant des fonctionnalités.
+- Matrice : Tableaux à une dimension.
+- Opérations arithmétiques : Sommes, soustraction, multiplication et division.
+- Type int : Nombre entier.
+- Type double : Nombre réel.
