@@ -32,6 +32,11 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa√
 
 ### Calendrier de livraison
 
+Date    |  Objectif
+--------|------
+Julie   |   29
+Lionel  |   47
+Martin  |   32
 
 ### Tests et performances
 
