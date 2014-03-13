@@ -18,21 +18,25 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa�
 ### Matériel
 
     - Outils pour le développement :
-      - Eclipse / OpenBLAS Optimisation
+      - Eclipse / OpenBLAS Optimisation / Code::blocks
       - Github
       - Logiciel de Profiling
   
 ### Besoins fonctionnels
-- Simplifier l'utilisation des grosses matrices
-- Avec différents types
+- Création d'une librairie sur les matrices.
+- Opérations arithmétiques sur les matrices de type int et double.
+- Prise en charge de tous les types.
+- Prise en charge des entrées et sorties via fichier et console et éventuellement une interface graphique.
+- Calculatrice de matrices.
   
 ### Besoins non fonctionnels
-- La librairie devra être capable de gérer les matrices de différents types.
-- Exécuter des opérations arithmétiques sur les matrices de type int et double.
+- Gestion des matrices pleines et creuses.
+- Matrices de taille supérieur à 1000.
+- Librairie optimisé pour les calculs scientifiques. 
 
 ### Calendrier de livraison
 
-Date prévionnel  |  Objectif
+Date prévionnelle  |  Objectif
 --------|------
 05/05/2014  |   Reception de l'appel d'offre
 15/03/2014  |   Envoie du cahier des charges au client
@@ -46,3 +50,12 @@ Date prévionnel  |  Objectif
 
 
 ### Glossaire
+
+Code::blocks : Environnement de développement.
+Eclipse : Environnement de développement.
+Interface graphique : dispositif de dialogue homme-machine utilisant clavier et souris.
+Libraire : Fichiers inclus dans un programme et ajoutant des fonctionnalités.
+Matrice : Tableaux à une dimension.
+Opérations arithmétiques : Sommes, soustraction, multiplication et division.
+Type int : Nombre entier.
+Type double : Nombre réel.
