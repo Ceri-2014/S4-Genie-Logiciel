@@ -35,8 +35,14 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa�
 Date    |  Objectif
 --------|------
 05/05/2014  |   Reception de l'appel d'offre
-Lionel  |   47
-25/05/2014  |   Rendue Final
+15/03/2014  |   Envoie du cahier des charges au client
+31/03/2014  |   Validation des spécification techniques
+01/03/2014  |   Début du développement
+30/03/2014  |   Début des tests unitaires
+30/04/2014  |   Correction et finalisation du développement
+11/05/2014  |   Tests de performances
+20/05/2014  |   Finalisation du projet
+25/05/2014  |   Rendu Final
 
 ### Tests et performances
 
