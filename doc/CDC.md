@@ -34,7 +34,7 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa√
 
 Date    |  Objectif
 --------|------
-Julie   |   29
+5 f√©vrier 2014   |   Reception de l'appel d'offre
 Lionel  |   47
 Martin  |   32
 
