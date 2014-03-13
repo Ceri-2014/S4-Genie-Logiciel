@@ -32,7 +32,7 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa√
 
 ### Calendrier de livraison
 
-Date    |  Objectif
+Date pr√©vionnel  |  Objectif
 --------|------
 05/05/2014  |   Reception de l'appel d'offre
 15/03/2014  |   Envoie du cahier des charges au client
