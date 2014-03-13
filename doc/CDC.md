@@ -21,6 +21,11 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa�
       - Eclipse / OpenBLAS Optimisation / Code::blocks
       - Github
       - Logiciel de Profiling
+    - Langages de programmation : 
+      - C++
+      - UML (Langage de Modélisation Unifié)
+    - Documentation :
+      - Doxygen (Génération de la Documention)
   
 ### Besoins fonctionnels
 - Création d'une librairie sur les matrices.
