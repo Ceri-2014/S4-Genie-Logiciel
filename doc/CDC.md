@@ -20,7 +20,7 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa�
     - Outils pour le développement :
       - Eclipse / OpenBLAS Optimisation
       - Github
-      
+      - Logiciel de Profiling
   
 ### Besoins fonctionnels
 - Simplifier l'utilisation des grosses matrices
@@ -43,8 +43,6 @@ Date prévionnel  |  Objectif
 11/05/2014  |   Tests de performances
 20/05/2014  |   Finalisation du projet
 25/05/2014  |   Rendu Final
-
-### Tests et performances
 
 
 ### Glossaire
