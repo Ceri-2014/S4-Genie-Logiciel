@@ -23,10 +23,12 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa�
       
   
 ### Besoins fonctionnels
-
+- Simplifier l'utilisation des grosses matrices
+  - Avec différents types
   
 ### Besoins non fonctionnels
-
+- La librairie devra être capable de gérer les matrices de différents types.
+  - Exécuter des opérations arithmétiques sur les matrices de type int et double.
 
 ### Calendrier de livraison
 
@@ -35,14 +37,3 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa�
 
 
 ### Glossaire
-
-
-  
-### Interets et Contraintes
-* Interets
-  - Simplifier l'utilisation des grosses matrices
-  - Avec différents types
-* Contraintes
-  - La librairie devra être capable de gérer les matrices de différents types.
-  - Exécuter des opérations arithmétiques sur les matrices de type int et double.
-   
