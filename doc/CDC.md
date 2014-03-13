@@ -1,10 +1,10 @@
 #Cahier des charges 
 
-## Introduction
+### Introduction
 Il s'agit de développer un composant logiciel permettant de réaliser de manipuler des matrices de très grande taille ( de dimension supérieur à 1 000). Ces matrices peuvent être utilisés dans des applications très diverses, de calcul scientifique ou de traitement d'image par exemple.
 Ce type de matrices peut prendre des formes assez diverses, qui impactent la façon dont les calculs sont menés. On distinguera notamment les matrices pleine et les matrices matrices creuses, qui sont principalement composées de zéro (mais pas seulement!).
   
-## Equipe du projet
+### Equipe du projet
 * Membres
   - **TORET Valentin** aka blade72
   - **BLASCO Michaël** aka DeanWinchesterMiND
@@ -14,23 +14,22 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa�
 * Roles
   - Coordinateur de projet : TORET Valentin 
   - Responsable des tests :  BLASCO Michaël
-  - 
   
-## Matériel
+### Matériel
 
-## Modèle conceptuel 
+### Modèle conceptuel 
 
-## Besoins fonctionnels
+### Besoins fonctionnels
 
-## Besoins non fonctionnels
+### Besoins non fonctionnels
 
-## Sous ensemble et priorités d'implémentation
+### Sous ensemble et priorités d'implémentation
 
-## Information de maintenance
+### Information de maintenance
 
-## Glossaire
+### Glossaire
 
-## Index
+### Index
 
 
   
