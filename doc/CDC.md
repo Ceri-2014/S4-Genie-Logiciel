@@ -17,14 +17,14 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa�
 
 ### Matériel
 
-    - Outils pour le développement :
-      - Eclipse / OpenBLAS Optimisation / Code::blocks
+   - Outils pour le développement :
+      - Eclipse / OpenBLAS Optimization / Code::Blocks
       - Github
       - Logiciel de Profiling
-    - Langages de programmation : 
+   - Langages de programmation : 
       - C++
       - UML (Langage de Modélisation Unifié)
-    - Documentation :
+   - Documentation :
       - Doxygen (Génération de la Documention)
   
 ### Besoins fonctionnels
