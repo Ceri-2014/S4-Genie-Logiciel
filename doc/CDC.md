@@ -1,5 +1,4 @@
 #Cahier des charges 
-Lien GitHub: https://github.com/Ceri-2014/S4-Genie-Logiciel/
 
 ### Introduction
 Il s'agit de développer un composant logiciel permettant de réaliser de manipuler des matrices de très grande taille ( de dimension supérieur à 1 000). Ces matrices peuvent être utilisés dans des applications très diverses, de calcul scientifique ou de traitement d'image par exemple.
@@ -57,11 +56,13 @@ Date prévionnelle  |  Objectif
 
 ### Glossaire
 
-- Code::blocks : Environnement de développement.
+- Code::Blocks : Environnement de développement.
 - Eclipse : Environnement de développement.
 - Interface graphique : dispositif de dialogue homme-machine utilisant clavier et souris.
-- Libraire : Fichiers inclus dans un programme et ajoutant des fonctionnalités.
+- Librarie : Fichiers inclus dans un programme et ajoutant des fonctionnalités.
 - Matrice : Tableaux à une dimension.
 - Opérations arithmétiques : Sommes, soustraction, multiplication et division.
 - Type int : Nombre entier.
 - Type double : Nombre réel.
+
+Lien GitHub: https://github.com/Ceri-2014/S4-Genie-Logiciel/
