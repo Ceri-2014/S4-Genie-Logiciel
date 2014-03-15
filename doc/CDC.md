@@ -7,7 +7,7 @@ Ce type de matrices peut prendre des formes assez diverses, qui impactent la fa�
 ### Équipe du projet
 * Membres
   - **TORET Valentin** aka blade72
-  - **BLASCO Michaël** aka DeanWinchesterMiND
+  - **BLASCO Michaël** aka AUTORiTY
   - **GUICHARD Yoan**  aka Olfar
   - **HONEL Steve**    aka Wartax
 
